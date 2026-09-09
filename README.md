@@ -29,6 +29,6 @@ distributors for Sep-Dec 2018 to support inventory planning.
 pandas | numpy | matplotlib | seaborn | statsmodels | sklearn
 
 ## Author
-Shreshtha Sharma - [shreshthaphq39@gmail.com](mailto:shreshthaphq39@gmail.com)
+Shreshtha Sharma 
 
 PGDM in Data Science - Shanti Business School, Ahmedabad
